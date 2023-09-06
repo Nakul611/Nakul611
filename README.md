@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **29814csds@gmail.com**
 
-- ⚡ Fun fact **There is no tommorow**
+- ⚡ Fun fact **Gaming can improve your creativity, memory, languages and teamwork**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
