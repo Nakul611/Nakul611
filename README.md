@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nakul Balaiwar</h1>
-<h3 align="center">Front-end Developer, Android Developer, Web3 Developer</h3>
+<h3 align="center">Front-end Developer, Android Developer</h3>
+<h3 align="center">I am into Web3/h3>
 
 <img align="right" alt="coding" width="400" src="https://www.codiesalert.com/wp-content/uploads/2021/11/BlockchAIN-1-4.gif">
 
