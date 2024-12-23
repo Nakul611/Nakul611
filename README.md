@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/babubhaiyaog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babubhaiyaog" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nakul balaiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nakul balaiwar" height="30" width="40" /></a>
-<a href="https://instagram.com/ig.waduhek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.waduhek" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.waduhek" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/★gnakul46" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="★gnakul46" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/2101641540055_csds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2101641540055_csds" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/babubhaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="babubhaiya" height="30" width="40" /></a>
