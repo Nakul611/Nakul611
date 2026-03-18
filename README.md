@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakul Balaiwar</h1>
-<h3 align="center">Fullstack Developer, Blockchain Developer</h3>
+<h3 align="center">Full-Stack Developer, Blockchain Developer</h3>
 <img align="right" alt="coding" width="400" src="https://www.codiesalert.com/wp-content/uploads/2021/11/BlockchAIN-1-4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul611&label=Profile%20views&color=0e75b6&style=flat" alt="nakul611" /> </p>
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Blockchain**
 
-- 📫 How to reach me **29814csds@gmail.com**
+- 📫 How to reach me **gnakul46@gmail.com**
 
 - ⚡ Fun fact **Gaming can improve your creativity, memory, languages and teamwork**
 
