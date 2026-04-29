@@ -1,94 +1,82 @@
 <h1 align="center">Hi 👋, I'm Nakul Balaiwar</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Building intelligent systems, scalable apps, and exploring the future of AI.
+  <b>Full Stack Developer • Python • AI Systems</b>
 </p>
 
-<img align="right" alt="AI coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  Building intelligent systems, scalable apps, and exploring AI.
+</p>
 
 ---
 
 ### 🚀 About Me
 
-* 💻 Full Stack Developer with a focus on modern web technologies
-* 🧠 Currently exploring **AI, LLMs & Agentic AI Systems**
-* 🐍 Working with **Python for AI & backend systems**
-* 🌐 Experience with **Next.js, React, Node.js, MongoDB, SQL, and scalable architectures**
-* 🔗 Background in **Web2 & Web3**
-* 📫 Reach me at: **[gnakul46@gmail.com](mailto:gnakul46@gmail.com)**
+* Full Stack Developer focused on modern web technologies
+* Exploring **AI, LLMs & Agentic Systems**
+* Working with **Python for backend & AI**
+* Experience with **Next.js, React, APIs & system design**
+* Background in **Blockchain & Web3**
 
 ---
 
-### 🧠 What I'm Exploring
+### 🧠 Current Focus
 
-* 🤖 AI Agents & Autonomous Workflows
-* 🧩 RAG (Retrieval-Augmented Generation) Systems
-* ⚙️ Backend systems for AI apps (FastAPI, APIs, orchestration)
-* 🧠 LLM integrations & real-world applications
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/babubhaiyaog" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/nakul balaiwar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.leetcode.com/babubhaiya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-</p>
+* AI Agents & automation
+* RAG systems
+* Backend for AI apps (FastAPI, APIs)
+* Real-world LLM applications
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 👨‍💻 Languages
-
+**Languages**
 `JavaScript` `TypeScript` `Python` `C++`
 
-#### 🌐 Frontend
+**Frontend**
+`React` `Next.js` `Tailwind`
 
-`React` `Next.js` `Tailwind CSS`
+**Backend & AI**
+`Node.js` `FastAPI` `APIs` `LLMs`
 
-#### ⚙️ Backend & AI
+**AI / ML**
+`Agentic AI` `RAG` `AI Workflows`
 
-`Node.js` `Python` `FastAPI` `APIs` `LLMs`
-
-#### 🧠 AI / ML
-
-`Agentic AI` `RAG` `OpenAI APIs` `AI Workflows`
-
-#### 🔗 Other
-
+**Other**
 `Blockchain` `Git` `REST APIs`
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+<a href="https://twitter.com/babubhaiyaog">
+  <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/nakul balaiwar">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/babubhaiya">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakul611&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nakul611&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nakul611&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakul611&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul611&layout=compact&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul611&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### ⚡
 
-> I like building things at the intersection of **technology + intelligence**, even when I’m still figuring them out.
-
----
+> Still figuring things out, but building anyway.
